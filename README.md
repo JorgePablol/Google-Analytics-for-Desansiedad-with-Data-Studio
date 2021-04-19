@@ -3,6 +3,14 @@ An analysis I did to the google analytics of desansiedad. Desansiedad is a compa
 
 # Results: Final report [here](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849)
 
+# Engineering:
+1. Google Data Studio: Applied many filters to the data.
+2. Python using the typical libraries I engineered the data, see the documents [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad/blob/main/Desansiedad%20(1).ipynb)
+* Sorry if it looks a bit confusing, I tried to describe the process well, but as soon as I was jumping too many times from data studio to google colab it was difficult to describe exactly the process.
+
+# Visualization and Reporting:
+* The entire viz and reporting was done entirely in google data studio and you can see the [results](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849)
+
 # Tools and libraries:
 * Python 3.7
 * Google Colab (Jupyter Notebook)
@@ -24,10 +32,3 @@ An analysis I did to the google analytics of desansiedad. Desansiedad is a compa
 8. Improved visualizations and descriptive text with highlighted important words.
 9. Analysed the project as a whole and started to create a story on how customers consume desansiedad.
 10. Prepared the presentation formally and presented it to the marketing team.
-
-# Engineering:
-1. Google Data Studio: Applied many filters to the data.
-2. Python using the typical libraries I engineered the data, see the documents [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad/blob/main/Desansiedad%20(1).ipynb)
-* Sorry if it looks a bit confusing, I tried to describe the process well, but as soon as I was jumping too many times from data studio to google colab it was difficult to describe exactly the process.
-
-
