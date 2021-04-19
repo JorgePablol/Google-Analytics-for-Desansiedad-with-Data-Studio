@@ -5,6 +5,7 @@ An analysis I did to the google analytics of desansiedad.
 
 # Tools and libraries:
 * Python 3.7
+* Google Colab (Jupyter Notebook)
 * Google Analytics
 * Google Data Studio
 * Excel
