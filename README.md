@@ -24,7 +24,8 @@ An analysis I did to the google analytics of desansiedad.
 
 # Engineering:
 1. Google Data Studio: Applied many filters to the data.
-2. Python using the typical libraries I engineered the data, see the documents [here]
+2. Python using the typical libraries I engineered the data, see the documents [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad/blob/main/Desansiedad%20(1).ipynb)
+* Sorry if it looks a bit confusing, I tried to describe the process well, but as soon as I was jumping too many times from data studio to google colab it was difficult to describe exactly the process.
 
 
 # Results: [here](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849)
