@@ -1,2 +1,30 @@
-# Data-Analysis-Desansiedad
+# Data Analysis Desansiedad (March 2021)
 An analysis I did to the google analytics of desansiedad.
+
+# Tools and libraries:
+    * Python 3.7
+    * Google Analytics
+    * Google Data Studio
+    * Excel
+    * Pandas
+    * Numpy
+    * Matplotlib
+
+# How:
+1. I got access to their google analytics then I connected the google analytics to google data studio.
+2. I started analysing what kind of data they have in google analytics.
+3. They had historical data from august 2020 until the present, at the time march was starting so I decided to close it to february 2021.
+4. The data engineering was made in google data studio,and python (pandas, numpy, maplotlib), I also did some engineering in excel deleting some columns and rows when it was needed.
+5. Started to plot dimension by dimension (audience, acquisition, behaviour, conversions) first plotting as a table and then selecting the best visualization.
+6. After plotting the best visualization I downloaded the csv to take it to pandas and use the describe() method to have a statistical description on some datasets.
+7. I focused on detailed visualizations, they must have the same color logic on the entire presentation.
+8. Improved visualizations and descriptive text with highlighted important words.
+9. Analysed the project as a whole and started to create a story on how customers consume desansiedad.
+10. Prepared the presentation formally and presented to the marketing team.
+
+# Engineering:
+1. Google Data Studio: Applied many filters to the data.
+2. Python using the typical libraries I engineered the data, see the documents [here]
+
+
+# Results: [here](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849)
