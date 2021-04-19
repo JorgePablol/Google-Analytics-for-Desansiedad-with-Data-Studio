@@ -6,9 +6,9 @@ An analysis I did to the google analytics of desansiedad.
 * Google Analytics
 * Google Data Studio
 * Excel
-*  Pandas
-   *Numpy
-   *Matplotlib
+* Pandas
+* Numpy
+* Matplotlib
 
 # How:
 1. I got access to their google analytics then I connected the google analytics to google data studio.
