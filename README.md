@@ -1,5 +1,5 @@
 # Data Analysis Desansiedad (March 2021)
-An analysis I did to the google analytics of desansiedad.
+An analysis I did to the google analytics of desansiedad. Desansiedad is a company that provides online anxiety treatment for spanish speakers.
 
 # Results: Final report [here](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849)
 
