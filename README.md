@@ -2,13 +2,13 @@
 An analysis I did to the google analytics of desansiedad.
 
 # Tools and libraries:
-    * Python 3.7
-    * Google Analytics
-    * Google Data Studio
-    * Excel
-    * Pandas
-    * Numpy
-    * Matplotlib
+   *Python 3.7
+   *Google Analytics
+   *Google Data Studio
+   *Excel
+   *Pandas
+   *Numpy
+   *Matplotlib
 
 # How:
 1. I got access to their google analytics then I connected the google analytics to google data studio.
