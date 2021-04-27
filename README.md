@@ -4,7 +4,7 @@ This is a data analysis I made to the team of desansiedad, desansiedad is a mexi
 # [Results](#Table-Of-Contents)
 As soon as this is a professional project I can't share some of the insight$$ but I can show you a good version by [clicking](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B). That is a deeper version, here I will show just some cool insights I found.
 
-![agenmder](https://user-images.githubusercontent.com/58957744/116299502-67341700-a763-11eb-99a1-270a4424dcaf.png)
+![agender2](https://user-images.githubusercontent.com/58957744/116299730-b11cfd00-a763-11eb-88ba-c638bab6b055.png)
 
 ![chan](https://user-images.githubusercontent.com/58957744/116299507-67ccad80-a763-11eb-88ab-f01310c06986.png)
 
