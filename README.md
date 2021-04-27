@@ -12,7 +12,7 @@ As soon as this is a professional project I can't share some of the insight$$ bu
 
 ![dispos](https://user-images.githubusercontent.com/58957744/116299509-68654400-a763-11eb-93d9-3a2ade076156.png)
 
-![interests](https://user-images.githubusercontent.com/58957744/116299510-68fdda80-a763-11eb-9c35-fef67827d5ca.png)
+![inter](https://user-images.githubusercontent.com/58957744/116300153-2d174500-a764-11eb-8e80-e619352ef71f.png)
 
 ![talentedblogs](https://user-images.githubusercontent.com/58957744/116299512-68fdda80-a763-11eb-88c2-c920ba94153f.png)
 
