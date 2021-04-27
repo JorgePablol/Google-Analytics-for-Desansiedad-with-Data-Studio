@@ -8,7 +8,7 @@ As soon as this is a professional project I can't share some of the insight$$ bu
 
 ![chan](https://user-images.githubusercontent.com/58957744/116299507-67ccad80-a763-11eb-88ab-f01310c06986.png)
 
-![conver](https://user-images.githubusercontent.com/58957744/116299508-68654400-a763-11eb-9a61-3e979b1766f6.png)
+![conver](https://user-images.githubusercontent.com/58957744/116299902-dc075100-a763-11eb-92af-6cf2bbeeb072.png)
 
 ![dispos](https://user-images.githubusercontent.com/58957744/116299509-68654400-a763-11eb-93d9-3a2ade076156.png)
 
