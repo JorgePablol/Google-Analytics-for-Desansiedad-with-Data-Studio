@@ -40,10 +40,10 @@ I wanted to keep this page, I know it may be too much numbers and information bu
 * [Resume](#Resume-Desansiedad-Data-Analysis)
 * [Results](#Results)
 * [Tools And Libraries](#Tools-And-Libraries)
+* [Data Analysis And Wrangling](#Data-Analysis-And-Wrangling)
+* [Visualization And Reporting](#Visualization-And-Reporting)
 
-
-
-# Tools And Libraries:
+# Tools And Libraries:(#Table-Of-Contents)
 * Python 3.7
 * Google Colab (Jupyter Notebook)
 * Google Analytics
@@ -52,3 +52,29 @@ I wanted to keep this page, I know it may be too much numbers and information bu
 * Pandas
 * Numpy
 * Matplotlib
+
+# [Data Analysis And Wrangling](#Table-Of-Contents)
+
+First the tough wrangling part didn't happen here as soon as google analytics had good quality data, the most related to wrangling were the filters in data studio and an important data analysis with python, pandas,etc for detecting ourliers, quick visualizations and statistical descriptions.
+
+I will how some points of the wrangling and analysis but you can see the entire document [here]()
+
+Importing Libraries and some statistical descriptions:
+
+![libraries and stat desc](https://user-images.githubusercontent.com/58957744/116306684-00b2f700-a76b-11eb-9713-2586bc94bc12.png)
+
+Looking for outliers on pages plotting unique visits per page:
+
+![out](https://user-images.githubusercontent.com/58957744/116306685-014b8d80-a76b-11eb-8b47-5ce2f834a790.png)
+![out2](https://user-images.githubusercontent.com/58957744/116306688-01e42400-a76b-11eb-846a-f9fb0372d0ce.png)
+
+Statistical description without outliers, and only of blogs only:
+
+![stat](https://user-images.githubusercontent.com/58957744/116306689-01e42400-a76b-11eb-91a3-cb8c10322ab5.png)
+
+Distribution of time in the page
+
+![vz](https://user-images.githubusercontent.com/58957744/116306691-027cba80-a76b-11eb-92b2-035555c34ce6.png)
+
+# [Visualization And Reporting](#Table-Of-Contents)
+## This was made entirely with google data studio you can [click](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B) to watch the entire report.
