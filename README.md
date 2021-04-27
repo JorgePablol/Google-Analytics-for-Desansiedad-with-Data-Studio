@@ -1,9 +1,9 @@
-# [Resume: Desansiedad Data Analysis](#Table-Of-Contents)
+# [Resume Desansiedad Data Analysis](#Table-Of-Contents)
 
 # [Results](#Table-Of-Contents)
 
 # Table Of Contents:
-* [Resume](#Resume:-Desansiedad-Data-Analysis)
+* [Resume](#Resume-Desansiedad-Data-Analysis)
 * [Results](#Results)
 * [Tools And Libraries](#Tools-And-Libraries)
 
