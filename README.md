@@ -3,9 +3,9 @@
 # [Results](#Table-Of-Contents)
 
 # Table Of Contents:
-* Resume(#Resume)
-* Results(#Results)
-* Tools And Libraries(#Tools-And-Libraries)
+* [Resume](#Resume:-Desansiedad-Data-Analysis)
+* [Results](#Results)
+* [Tools And Libraries](#Tools-And-Libraries)
 
 
 
