@@ -39,11 +39,11 @@ I wanted to keep this page, I know it may be too much numbers and information bu
 # Table Of Contents:
 * [Resume](#Resume-Desansiedad-Data-Analysis)
 * [Results](#Results)
-* [Tools And Libraries](#Tools-And-Libraries)
+* [Tools And Libraries](#Tools-And-Libraries:)
 * [Data Analysis And Wrangling](#Data-Analysis-And-Wrangling)
 * [Visualization And Reporting](#Visualization-And-Reporting)
 
-# Tools And Libraries:(#Table-Of-Contents)
+# [Tools And Libraries:](#Table-Of-Contents)
 * Python 3.7
 * Google Colab (Jupyter Notebook)
 * Google Analytics
