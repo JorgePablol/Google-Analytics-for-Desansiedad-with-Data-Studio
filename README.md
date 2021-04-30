@@ -4,9 +4,9 @@ This is a data analysis I made to the team of desansiedad, desansiedad is a mexi
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
 # [Results](#Table-Of-Contents)
-As soon as this is a professional project I can't share some of the insight$$ but I can show you a good version by [clicking](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B). That is a deeper version, here I will show just some cool insights I found.
+You can read the some of the results below or enjoy the entire report on google data studio by [clicking](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B).
 
-I will try to express the information on a simple manner and don't go deep in the analysis.
+I will explain some of the insights I got and hope you enjoy.
 
 Here we can see the distribution of the audience on 2 dimensions the first is the users, so in the overall users we can see that most of our audience are females the ages between 18 and 54 look flat on the overall, of course we have a taller bar on 25-34 years old range, and the lower age range are people older than 55, maybe they are not so familiar with online services but that is an hypotheses what we know is that our most important group is females between 25-34 years old, with a flat distribution on the range 18-54 so they are also our actual audience.
 The male distribution tend to the left that means most of their public is young as we expect in an online service, and decreases as their audience is older, here again the biggest audience group is between 25-34 years old. For some reason the male distribution looks smaller than the female distribution, of course the result means that their service excels with women but we can see this as an opportunity to analyse what can we do to attract male audience, of course they also have anxiety issues.
