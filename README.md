@@ -59,7 +59,7 @@ I wanted to keep this page, I know it may be too much numbers and information bu
 
 First the tough wrangling part didn't happen here as soon as google analytics had good quality data, the most related to wrangling were the filters in data studio and an important data analysis with python, pandas,etc for detecting ourliers, quick visualizations and statistical descriptions.
 
-I will how some points of the wrangling and analysis but you can see the entire document [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio/blob/main/Desansiedad%20(1).ipynb) I recommend you to reload if github fails to show it or to download and open it with google colab.
+I will show some points of the wrangling and analysis but you can see the entire document [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio/blob/main/Desansiedad%20(1).ipynb) I recommend you to reload if github fails to show it or to download and open it with google colab.
 
 Importing Libraries and some statistical descriptions:
 
