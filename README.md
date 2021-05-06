@@ -16,26 +16,26 @@ As it was expected the females between 25-34 are the most relevant group represe
 On the female side we see a similar distribution as in the above plot, the best groups of females are between 18 and 54, but now we can see a pattern that after 34 years old the group's revenue tends to decrease as we can see the lowest are 65 or more years old.
 On the male side we see a similar patters as with female revenue, it increases until 34 and then it deacreases. A difference here is the group of males between 18-24 years old they don't represent that much revenue compared to the overall male revenue the opposite with females that 18-24 females are one of the most important groups. 
 
-![agender2](https://user-images.githubusercontent.com/58957744/116299730-b11cfd00-a763-11eb-88ba-c638bab6b055.png)
+![1](https://user-images.githubusercontent.com/58957744/117361993-5b8dd200-ae80-11eb-9a13-617bad4f4917.png)
 
 
 The conversion rate looks slow for the younger people on both genders and then with the females looks flat between 0.13 and 0.15 conversion rate, even with the older people they have, those people buy the product with similar facility as the younger 25-34 females.
 On the male side our best groups are between 25 and 44 years old, again the older males tend to don't buy the product.
 
-![conver](https://user-images.githubusercontent.com/58957744/116299902-dc075100-a763-11eb-92af-6cf2bbeeb072.png)
+![2](https://user-images.githubusercontent.com/58957744/117361995-5c266880-ae80-11eb-9afd-7b6b7a249d05.png)
 
 As we can see our best channel for acquisition is organic search that must be enough to put all the attention on SEO Search Engine Optimization. The other channels social and direct come from the content marketing sttrateg in the case of social and simply putting the link in the case of direct. For longer sessions we can see the e-mail newslatter is working as we see the difference in percentage between users and sessions plots on the e-mail data point.
 
-![chan](https://user-images.githubusercontent.com/58957744/116299507-67ccad80-a763-11eb-88ab-f01310c06986.png)
+![3](https://user-images.githubusercontent.com/58957744/117361997-5c266880-ae80-11eb-872e-2ea2139bb654.png)
 
 The dispotives our audience uses the most are mobile by more than 1M users, this opens the discussion for an app, and for that we may know the operative system that is android on a 75% and iOS 25%.
 The best conversion rate between dispositives is with desktop, but that responds to two reasons, first most of the people comes from mobile and second once they have bought the product they tend to use the pc to connect with their psychologist via online reunions.
 
-![dispos](https://user-images.githubusercontent.com/58957744/116299509-68654400-a763-11eb-93d9-3a2ade076156.png)
+![4](https://user-images.githubusercontent.com/58957744/117361999-5cbeff00-ae80-11eb-8e63-f8d0f76ba0fe.png)
 
 I wanted to keep this page, I know it may be too much numbers and information but company was optimizing their website so they asked me to find a good insight from their google analytics that can help them, and after talking closely with the team we had this table as a result, it plots the pages that are below the sea line, but also that have good engagement, it was very helpful for them.
 
-![talentedblogs](https://user-images.githubusercontent.com/58957744/116299512-68fdda80-a763-11eb-88c2-c920ba94153f.png)
+![5](https://user-images.githubusercontent.com/58957744/117362001-5cbeff00-ae80-11eb-8f96-0c57fdbf76ea.png)
 
 
 # Table Of Contents:
