@@ -4,7 +4,7 @@ This is a data analysis I made to the team of desansiedad, desansiedad is a mexi
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
 # [Results](#Table-Of-Contents)
-You can read the some of the results below or enjoy the entire report on google data studio by [clicking](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B).
+You can read the some of the results below or enjoy the entire report by [clicking](https://tinyurl.com/desansiedad).
 
 I will explain some of the insights I got, the entire report is too long so hope you enjoy.
 
@@ -79,4 +79,4 @@ Distribution of time in the page
 ![vz](https://user-images.githubusercontent.com/58957744/116306691-027cba80-a76b-11eb-92b2-035555c34ce6.png)
 
 # [Visualization And Reporting](#Table-Of-Contents)
-## This was made entirely with google data studio you can [click](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B) to watch the entire report.
+## This was made entirely [click](https://tinyurl.com/desansiedad) to watch the entire report.
