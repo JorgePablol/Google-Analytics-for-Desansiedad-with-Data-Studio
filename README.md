@@ -8,19 +8,19 @@ You can read the some of the results below or enjoy the entire report by [clicki
 
 I will list some of the insights I had for Desansiedad:
 
-*   Our audience is dominated by females, they represent 70% of our audience.
-*   The best age range for both genders is 25-34 years, we must focus some of our marketing efforts on those ranges.
-*   Other female age ranges are relatively flat, we have the opportunity to offer our product to most of women and hace a clear acceptance of it.
-*   Best countries: Mexico, Chile, Spain, Peru, USA.
-*   USA we have a big opportunity to take our efforts to USA, every user in USA represents $11 MXN compared to the others best countries that are around $6 MXN, I agreed to not show the exact amount of money they make per country so you won't see the exact insight on the presentation.
-*   84% Of our users come from a mobile phone, a web site with responsive design our an application for android and then iOS is a MUST.
-*   Our audience is interested in some particular themes like: Travel, wellness, lifestyle, petting, green living.
-*   Organic search is our best traffic source, it represents 50% of our traffic followed by social networks that represent 25%. SEO is a must we have to achieve.
-*   We must follow marketing campaigns via email and newsletter to keep in touch with our customers, e-mail users stay the most of time within the web site and have the less bounce rate.
-*   The best social networks we have impacted are youtube and facebook, content marketing is working there, we should analyse which kind of content represents the most virality and try to replicate it.
-*   In our web site there are 1512 pages with more than 99 views, 173 of those pages represent 60% of our total visits. Of those 173 the first 17 ordered by unique visits, represent 26% of the total unique visits within the web site.
-*   There are a lot of blogs and tutorials in our page that are not popular in terms of views but according to other metrics like time within page are actually sticky, we have to do something to get that content to the surface.
-*   There is a period within the months where the sales can't surpass 200k mexican pesos, that period is between day 8 and 18 of all the months analyzed.
+*   **Our audience** is dominated by females, they represent 70% of our audience.
+*   The **best age range** for both genders is 25-34 years, we must focus some of our marketing efforts on those ranges.
+*   Other **female age ranges** are relatively flat, we have the opportunity to offer our product to most of women and hace a clear acceptance of it.
+*   Best countries: **Mexico, Chile, Spain, Peru, USA.
+*   USA we have a **big opportunity to take our efforts to USA**, every user in USA represents $11 MXN compared to the others best countries that are around $6 MXN, I agreed to not show the exact amount of money they make per country so you won't see the exact insight on the presentation.
+*   **84%** Of our users come from a **mobile phone**, a web site with responsive design our an application for android and then iOS is a MUST.
+*   Our audience is interested in some **particular themes** like: Travel, wellness, lifestyle, petting, green living.
+*   **Organic search is our best traffic source**, it represents 50% of our traffic followed by social networks that represent 25%. SEO is a must we have to achieve.
+*   We must hold **marketing campaigns via email and newsletter** to keep in touch with our customers, e-mail users stay the most of time within the web site and have the less bounce rate.
+*   The **best social networks** we have impacted are youtube and facebook, content marketing is working there, we should analyse which kind of content represents the most virality and try to replicate it.
+*   In our **website there are 1512 pages with more than 99 views**, 173 of those pages represent 60% of our total visits. Of those 173 the first 17 ordered by unique visits, represent 26% of the total unique visits within the web site.
+*   There are a lot of **blogs and tutorials in our page that are not popular in terms of views** but according to other metrics like time within page are actually sticky, we have to do something to get that content to the surface.
+*   There is a **period** within the months where the **sales can't surpass 200k mexican pesos**, that period is between day 8 and 18 of all the months analyzed.
 
 
 # Table Of Contents:
