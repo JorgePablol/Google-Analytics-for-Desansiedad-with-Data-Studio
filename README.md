@@ -15,7 +15,7 @@ I will list some of the insights I had for Desansiedad:
 *   The **best age range** for both genders is 25-34 years, we must focus some of our marketing efforts on those ranges.
 
 
-*   Other **female age ranges** are relatively flat, we have the opportunity to offer our product to most of women and hace a clear acceptance of it.
+*   Other **female age ranges** are relatively flat, we have the opportunity to offer our product to most of women and have a clear acceptance of it.
 
 
 *   Best countries: **Mexico, Chile, Spain, Peru, USA.**
