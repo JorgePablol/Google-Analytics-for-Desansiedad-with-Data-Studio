@@ -6,36 +6,21 @@ You can start by reading the results or go directly to the [table of contents](#
 # [Results](#Table-Of-Contents)
 You can read the some of the results below or enjoy the entire report by [clicking](https://tinyurl.com/desansiedad).
 
-I will explain some of the insights I got, the entire report is too long so hope you enjoy.
+I will list some of the insights I had for Desansiedad:
 
-Here we can see the distribution of the audience on 2 dimensions the first is the users, so in the overall users we can see that most of our audience are females the ages between 18 and 54 look flat on the overall, of course we have a taller bar on 25-34 years old range, and the lower age range are people older than 55, maybe they are not so familiar with online services but that is an hypotheses what we know is that our most important group is females between 25-34 years old, with a flat distribution on the range 18-54 so they are also our actual audience.
-The male distribution tend to the left that means most of their public is young as we expect in an online service, and decreases as their audience is older, here again the biggest audience group is between 25-34 years old. For some reason the male distribution looks smaller than the female distribution, of course the result means that their service excels with women but we can see this as an opportunity to analyse what can we do to attract male audience, of course they also have anxiety issues.
-
-On the second dimension that is revenue (the entire revenue can't be showed) so a part of their revenue labeled with age and gender, it has some surprises, for example we can see that on the male side of the plot male between 25-34 represent 214k in revenue (mexican pesos) that group represents the third group of audience that gives the most revenue, we are finding a niche with 25-34 years in both genders.
-As it was expected the females between 25-34 are the most relevant group representing the most revenue.
-On the female side we see a similar distribution as in the above plot, the best groups of females are between 18 and 54, but now we can see a pattern that after 34 years old the group's revenue tends to decrease as we can see the lowest are 65 or more years old.
-On the male side we see a similar patters as with female revenue, it increases until 34 and then it deacreases. A difference here is the group of males between 18-24 years old they don't represent that much revenue compared to the overall male revenue the opposite with females that 18-24 females are one of the most important groups. 
-
-![1](https://user-images.githubusercontent.com/58957744/117361993-5b8dd200-ae80-11eb-9a13-617bad4f4917.png)
-
-
-The conversion rate looks slow for the younger people on both genders and then with the females looks flat between 0.13 and 0.15 conversion rate, even with the older people they have, those people buy the product with similar facility as the younger 25-34 females.
-On the male side our best groups are between 25 and 44 years old, again the older males tend to don't buy the product.
-
-![2](https://user-images.githubusercontent.com/58957744/117361995-5c266880-ae80-11eb-9afd-7b6b7a249d05.png)
-
-As we can see our best channel for acquisition is organic search that must be enough to put all the attention on SEO Search Engine Optimization. The other channels social and direct come from the content marketing sttrateg in the case of social and simply putting the link in the case of direct. For longer sessions we can see the e-mail newslatter is working as we see the difference in percentage between users and sessions plots on the e-mail data point.
-
-![3](https://user-images.githubusercontent.com/58957744/117361997-5c266880-ae80-11eb-872e-2ea2139bb654.png)
-
-The dispotives our audience uses the most are mobile by more than 1M users, this opens the discussion for an app, and for that we may know the operative system that is android on a 75% and iOS 25%.
-The best conversion rate between dispositives is with desktop, but that responds to two reasons, first most of the people comes from mobile and second once they have bought the product they tend to use the pc to connect with their psychologist via online reunions.
-
-![4](https://user-images.githubusercontent.com/58957744/117361999-5cbeff00-ae80-11eb-8e63-f8d0f76ba0fe.png)
-
-I wanted to keep this page, I know it may be too much numbers and information but company was optimizing their website so they asked me to find a good insight from their google analytics that can help them, and after talking closely with the team we had this table as a result, it plots the pages that are below the sea line, but also that have good engagement, it was very helpful for them.
-
-![5](https://user-images.githubusercontent.com/58957744/117362001-5cbeff00-ae80-11eb-8f96-0c57fdbf76ea.png)
+Our audience is dominated by females, they represent 70% of our audience.
+The best age range for both genders is 25-34 years, we must focus some of our marketing efforts on those ranges.
+Other female age ranges are relatively flat, we have the opportunity to offer our product to most of women and hace a clear acceptance of it.
+Best countries: Mexico, Chile, Spain, Peru, USA.
+USA we have a big opportunity to take our efforts to USA, every user in USA represents $11 MXN compared to the others best countries that are around $6 MXN, I agreed to not show the exact amount of money they make per country so you won't see the exact insight on the presentation.
+84% Of our users come from a mobile phone, a web site with responsive design our an application for android and then iOS is a MUST.
+Our audience is interested in some particular themes like: Travel, wellness, lifestyle, petting, green living.
+Organic search is our best traffic source, it represents 50% of our traffic followed by social networks that represent 25%. SEO is a must we have to achieve.
+We must follow marketing campaigns via email and newsletter to keep in touch with our customers, e-mail users stay the most of time within the web site and have the less bounce rate.
+The best social networks we have impacted are youtube and facebook, content marketing is working there, we should analyse which kind of content represents the most virality and try to replicate it.
+In our web site there are 1512 pages with more than 99 views, 173 of those pages represent 60% of our total visits. Of those 173 the first 17 ordered by unique visits, represent 26% of the total unique visits within the web site.
+There are a lot of blogs and tutorials in our page that are not popular in terms of views but according to other metrics like time within page are actually sticky, we have to do something to get that content to the surface.
+There is a period within the months where the sales can't surpass 200k mexican pesos, that period is between day 8 and 18 of all the months analyzed.
 
 
 # Table Of Contents:
