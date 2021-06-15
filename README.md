@@ -9,13 +9,13 @@ You can read the some of the results below or enjoy the entire report by [clicki
 I will list some of the insights I had for Desansiedad:
 
 
-*   **Our audience** is dominated by females, <font color='purple'> ** they represent 70% of our audience. **</font>
+*   **Our audience** is dominated by females, <font color='purple'> **they represent 70% of our audience.**</font>
 
 
-*   The **best age range** for both genders is 25-34 years, <font color='purple'> ** we must focus some of our marketing efforts on those ranges. **</font>
+*   The **best age range** for both genders is 25-34 years, <font color='purple'>** we must focus some of our marketing efforts on those ranges.**</font>
 
 
-*   Other **female age ranges** are relatively flat,<font color='purple'>** we have the opportunity to offer our product to most of women and have a clear acceptance of it. **</font>
+*   Other **female age ranges** are relatively flat,<font color='purple'>**we have the opportunity to offer our product to most of women and have a clear acceptance of it.**</font>
 
 
 *   Best countries: **Mexico, Chile, Spain, Peru, USA.**
