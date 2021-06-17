@@ -1,3 +1,6 @@
+![d](https://user-images.githubusercontent.com/58957744/122457845-b8e36b80-cf74-11eb-8d5e-99405cd9d3eb.jpg)
+
+
 # [Desansiedad Data Analysis](#Table-Of-Contents)
 This is a data analysis I made to the team of desansiedad, desansiedad is a mexican enterprise that offers online professional treatment for anxiety, their web page and therefore their google analytics is an important asset to analyse, here I did most of the analysis with google data studio, and just a little with python, pandas, matplotlib, numpy. The challenge was on choosing the correct filters, the data was clean by origin.
 
