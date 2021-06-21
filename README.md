@@ -46,7 +46,7 @@ I will list some of the insights I had for Desansiedad:
 *   In our **website there are 1512 pages with more than 99 views**, 173 of those pages represent 60% of our total visits. Of those 173 the first 17 ordered by unique visits, represent 26% of the total unique visits within the web site. 
  
  
-*   There are a lot of **blogs and tutorials in our page that are not popular in terms of views** but according to other metrics like time within page are actually sticky, <font color='purple'>** we have to do something to get that content to the surface. 
+*   There are a lot of **blogs and tutorials in our page that are not popular in terms of views** but according to other metrics like time within page are actually sticky,** we have to do something to get that content to the surface.**
 
 
 *   There is a **period** within the months where the **sales can't surpass 200k mexican pesos**, that period is between day 8 and 18 of all the months analyzed. 
