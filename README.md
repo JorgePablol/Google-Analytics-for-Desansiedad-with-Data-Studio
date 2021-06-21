@@ -2,12 +2,12 @@
 
 
 
-# [Desansiedad Data Analysis](#Table-Of-Contents)
+# Desansiedad Data Analysis
 This is a data analysis I made to the team of desansiedad, desansiedad is a mexican enterprise that offers online professional treatment for anxiety, their web page and therefore their google analytics is an important asset to analyse, here I did most of the analysis with google data studio, and just a little with python, pandas, matplotlib, numpy. The challenge was on choosing the correct filters, the data was clean by origin.
 
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
-# [Results](#Table-Of-Contents)
+# Results
 You can read the some of the results below or enjoy the entire report by [clicking](https://tinyurl.com/desansiedad).
 
 I will list some of the insights I had for Desansiedad:
@@ -53,13 +53,13 @@ I will list some of the insights I had for Desansiedad:
 
 
 # Table Of Contents:
-* [Abstract](#Desansiedad-Data-Analysis)
-* [Results](#Results)
-* [Tools And Libraries](#Tools-And-Libraries)
-* [Data Analysis And Wrangling](#Data-Analysis-And-Wrangling)
-* [Visualization And Reporting](#Visualization-And-Reporting)
+* Abstract
+* Results
+* Tools And Libraries
+* Data Analysis And Wrangling
+* Visualization And Reporting
 
-# [Tools And Libraries](#Table-Of-Contents)
+# Tools And Libraries
 * Python 3.7
 * Google Colab (Jupyter Notebook)
 * Google Analytics
@@ -69,7 +69,7 @@ I will list some of the insights I had for Desansiedad:
 * Numpy
 * Matplotlib
 
-# [Data Analysis And Wrangling](#Table-Of-Contents)
+# Data Analysis And Wrangling
 
 First the tough wrangling part didn't happen here as soon as google analytics had good quality data, the most related to wrangling were the filters in data studio and an important data analysis with python, pandas,etc for detecting ourliers, quick visualizations and statistical descriptions.
 
@@ -92,5 +92,5 @@ Distribution of time in the page
 
 ![vz](https://user-images.githubusercontent.com/58957744/116306691-027cba80-a76b-11eb-92b2-035555c34ce6.png)
 
-# [Visualization And Reporting](#Table-Of-Contents)
+# Visualization And Reporting
 ## This was made entirely [click](https://tinyurl.com/desansiedad) to watch the entire report.
