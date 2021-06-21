@@ -75,20 +75,20 @@ First the tough wrangling part didn't happen here as soon as google analytics ha
 
 I will show some points of the wrangling and analysis but you can see the entire document [here](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio/blob/main/Desansiedad%20(1).ipynb) I recommend you to reload if github fails to show it or to download and open it with google colab.
 
-Importing Libraries and some statistical descriptions:
+**Importing Libraries and some statistical descriptions:**
 
 ![libraries and stat desc](https://user-images.githubusercontent.com/58957744/116306684-00b2f700-a76b-11eb-9713-2586bc94bc12.png)
 
-Looking for outliers on pages plotting unique visits per page:
+**Looking for outliers on pages plotting unique visits per page:**
 
 ![out](https://user-images.githubusercontent.com/58957744/116306685-014b8d80-a76b-11eb-8b47-5ce2f834a790.png)
 ![out2](https://user-images.githubusercontent.com/58957744/116306688-01e42400-a76b-11eb-846a-f9fb0372d0ce.png)
 
-Statistical description without outliers, and only of blogs only:
+**Statistical description without outliers, and only of blogs only:**
 
 ![stat](https://user-images.githubusercontent.com/58957744/116306689-01e42400-a76b-11eb-91a3-cb8c10322ab5.png)
 
-Distribution of time in the page
+**Distribution of time in the page**
 
 ![vz](https://user-images.githubusercontent.com/58957744/116306691-027cba80-a76b-11eb-92b2-035555c34ce6.png)
 
